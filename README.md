@@ -1,1 +1,5 @@
-# Image-preprocessing
+# THỰC HÀNH XỬ LÝ ẢNH 
+
+
+
+
